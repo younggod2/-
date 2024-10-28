@@ -1,0 +1,6 @@
+**/.DS_Store
+**/__pycache__/
+ml_model/AbRFC/
+**/pdb_graphs_dict.pkl
+**/mCSM-AB2_short.csv
+
