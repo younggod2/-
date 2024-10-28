@@ -1,0 +1,66 @@
+INFO Residue environment for 1C08,ASP32ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_ASP32ALA_env.pkl
+INFO distMatrix для 1C08,ASP32ALA,B была посчитана!
+INFO Residue environment for 1C08,ASP32ASN,B было взято из файла ./feature_engineering/CSM/res_env/1C08_ASP32ASN_env.pkl
+INFO distMatrix для 1C08,ASP32ASN,B была посчитана!
+INFO Residue environment for 1C08,SER31ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_SER31ALA_env.pkl
+INFO distMatrix для 1C08,SER31ALA,B была посчитана!
+INFO Residue environment for 1C08,TRP98ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TRP98ALA_env.pkl
+INFO distMatrix для 1C08,TRP98ALA,B была посчитана!
+INFO Residue environment for 1C08,TRP98PHE,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TRP98PHE_env.pkl
+INFO distMatrix для 1C08,TRP98PHE,B была посчитана!
+INFO Residue environment for 1C08,TYR33ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR33ALA_env.pkl
+INFO distMatrix для 1C08,TYR33ALA,B была посчитана!
+INFO Residue environment for 1C08,TYR33LEU,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR33LEU_env.pkl
+INFO distMatrix для 1C08,TYR33LEU,B была посчитана!
+INFO Residue environment for 1C08,TYR33PHE,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR33PHE_env.pkl
+INFO distMatrix для 1C08,TYR33PHE,B была посчитана!
+INFO Residue environment for 1C08,TYR33TRP,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR33TRP_env.pkl
+INFO distMatrix для 1C08,TYR33TRP,B была посчитана!
+INFO Residue environment for 1C08,TYR50ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50ALA_env.pkl
+INFO distMatrix для 1C08,TYR50ALA,B была посчитана!
+INFO Residue environment for 1C08,TYR50LEU,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50LEU_env.pkl
+INFO distMatrix для 1C08,TYR50LEU,B была посчитана!
+INFO Residue environment for 1C08,TYR50PHE,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50PHE_env.pkl
+INFO distMatrix для 1C08,TYR50PHE,B была посчитана!
+INFO Residue environment for 1C08,TYR53ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR53ALA_env.pkl
+INFO distMatrix для 1C08,TYR53ALA,B была посчитана!
+INFO Residue environment for 1C08,TYR53LEU,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR53LEU_env.pkl
+INFO distMatrix для 1C08,TYR53LEU,B была посчитана!
+INFO Residue environment for 1C08,TYR53PHE,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR53PHE_env.pkl
+INFO distMatrix для 1C08,TYR53PHE,B была посчитана!
+INFO Residue environment for 1C08,TYR53TRP,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR53TRP_env.pkl
+INFO distMatrix для 1C08,TYR53TRP,B была посчитана!
+INFO Residue environment for 1C08,TYR58ALA,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR58ALA_env.pkl
+INFO distMatrix для 1C08,TYR58ALA,B была посчитана!
+INFO Residue environment for 1C08,TYR58LEU,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR58LEU_env.pkl
+INFO distMatrix для 1C08,TYR58LEU,B была посчитана!
+INFO Residue environment for 1C08,TYR58PHE,B было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR58PHE_env.pkl
+INFO distMatrix для 1C08,TYR58PHE,B была посчитана!
+INFO Residue environment for 1C08,ASN31ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN31ALA_env.pkl
+INFO distMatrix для 1C08,ASN31ALA,A была посчитана!
+INFO Residue environment for 1C08,ASN31ASP,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN31ASP_env.pkl
+INFO distMatrix для 1C08,ASN31ASP,A была посчитана!
+INFO Residue environment for 1C08,ASN31GLU,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN31GLU_env.pkl
+INFO distMatrix для 1C08,ASN31GLU,A была посчитана!
+INFO Residue environment for 1C08,ASN32ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN32ALA_env.pkl
+INFO distMatrix для 1C08,ASN32ALA,A была посчитана!
+INFO Residue environment for 1C08,ASN32ASP,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN32ASP_env.pkl
+INFO distMatrix для 1C08,ASN32ASP,A была посчитана!
+INFO Residue environment for 1C08,ASN92ASP,A было взято из файла ./feature_engineering/CSM/res_env/1C08_ASN92ASP_env.pkl
+INFO distMatrix для 1C08,ASN92ASP,A была посчитана!
+INFO Residue environment for 1C08,GLN53ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_GLN53ALA_env.pkl
+INFO distMatrix для 1C08,GLN53ALA,A была посчитана!
+INFO Residue environment for 1C08,SER91ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_SER91ALA_env.pkl
+INFO distMatrix для 1C08,SER91ALA,A была посчитана!
+INFO Residue environment for 1C08,SER93ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_SER93ALA_env.pkl
+INFO distMatrix для 1C08,SER93ALA,A была посчитана!
+INFO Residue environment for 1C08,TYR50ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50ALA_env.pkl
+INFO distMatrix для 1C08,TYR50ALA,A была посчитана!
+INFO Residue environment for 1C08,TYR50LEU,A было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50LEU_env.pkl
+INFO distMatrix для 1C08,TYR50LEU,A была посчитана!
+INFO Residue environment for 1C08,TYR50PHE,A было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR50PHE_env.pkl
+INFO distMatrix для 1C08,TYR50PHE,A была посчитана!
+INFO Residue environment for 1C08,TYR96ALA,A было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR96ALA_env.pkl
+INFO distMatrix для 1C08,TYR96ALA,A была посчитана!
+INFO Residue environment for 1C08,TYR96PHE,A было взято из файла ./feature_engineering/CSM/res_env/1C08_TYR96PHE_env.pkl
+INFO distMatrix для 1C08,TYR96PHE,A была посчитана!
